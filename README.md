@@ -1,14 +1,37 @@
-- 👋 Hi, I’m @Baptist103
-- 👀 I’m interested in frontend developer and so far as it comes,
-- 🎨 I Design beautiful web interfaces
-- 🛠️ Build responsive, mobile-friendly websites
-- 📫 You can reach me through mpangalabaptist@gmail.com on email and +255 769 578 893 on WhatsApp.
-- ⚡ Fun fact: - I'll build a website based on my own original idea.
-- 🤓 I enjoy solving problems and learning new tech tools every day.
--  I'm proudly from Tanzania, and I’m working towards building my dream system one day.
--  
+# 👋 Hi, I’m TopTist  
 
-<!---
-Baptist103/Baptist103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Aspiring Fronted Web Developer |
+
+I’m passionate about creating powerful web apps, user-friendly designs, and solving real-world problems with code. Currently on a journey to master **HTML, CSS, JavaScript, React, Node.js, and Python**.  
+---
+
+## 🔧 Current Tech Skills
+-  Frontend: HTML | CSS | JavaScript 
+-  Design Tools: Figma | Photoshop
+- Responsive Web Design  
+- Git & GitHub  
+- Beginner: React (learning)  
+
+
+## 🔧 On Progress Tech Stack Learning
+-  Node.js | Express | React 
+-  MongoDB | MySQL | Python 
+-  Git & GitHub  
+
+---
+
+## 📈 Current Goals (Soon)
+- Build & launch my first **portfolio website**  
+- Master React & backend basics
+– Fast, mobile-first landing page
+- Simple online store layout page
+
+---
+
+## 📬 Let’s Connect
+- 📸 Instagram: (https://www.instagram.com/toptist_dev)    
+- 📧 Email: mpangalabaptist@gmail.com
+
+⭐️ *“Dream it. Build it. Live it. Repeat.”*  
+
+⭐️ *“Dream big, code harder, stay unstoppable.”*  
