@@ -1,4 +1,4 @@
-# 👋 Hi, I’m TopTist  
+# 👋 Hi, I’m Baptist  
 
 🚀 Aspiring Fronted Web Developer |
 
@@ -32,6 +32,5 @@ I’m passionate about creating powerful web apps, user-friendly designs, and so
 - 📸 Instagram: (https://www.instagram.com/toptist_dev)    
 - 📧 Email: mpangalabaptist@gmail.com
 
-⭐️ *“Dream it. Build it. Live it. Repeat.”*  
 
 ⭐️ *“Dream big, code harder, stay unstoppable.”*  
