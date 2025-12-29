@@ -2,7 +2,7 @@
 
 🚀 Aspiring Fronted Web Developer |
 
-I’m passionate about creating powerful web apps, user-friendly designs, and solving real-world problems with code. Currently on a journey to master HTML, CSS, JavaScript, React, Node.js, and Python.  
+I’m passionate about creating powerful web apps, user-friendly designs, and solving real-world problems with code. Currently on a journey to master Fron-tend Web Development.
 ---
 
 ## 🔧 Current Tech Skills
@@ -21,7 +21,6 @@ I’m passionate about creating powerful web apps, user-friendly designs, and so
 ---
 
 ## 📈 Current Goals (Soon)
-- Finish up & launch my portfolio site
 - Master React & backend basics
 – Fast, mobile-first landing page
 - Simple online store layout page
@@ -33,4 +32,4 @@ I’m passionate about creating powerful web apps, user-friendly designs, and so
 - 📧 Email: mpangalabaptist@gmail.com
 
 
-⭐️ *“Dream big, code harder, stay unstoppable.”*  
+⭐️ *“Code harder, stay inprogress.”*  
