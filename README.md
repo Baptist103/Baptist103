@@ -10,7 +10,7 @@ I’m passionate about creating powerful web apps, user-friendly designs, and so
 -  Design Tools: Figma | Photoshop
 - Responsive Web Design  
 - Git & GitHub  
-- Beginner: React (learning)  
+- Intermediate: React (Current learning)  
 
 
 ## 🔧 On Progress Tech Stack Learning
@@ -22,14 +22,11 @@ I’m passionate about creating powerful web apps, user-friendly designs, and so
 
 ## 📈 Current Goals (Soon)
 - Master React & backend basics
-– Fast, mobile-first landing page
-- Simple online store layout page
+– Fast, mobile-first landing page (Completed)
+- Simple online store layout page (Completed)
 
 ---
 
 ## 📬 Let’s Connect
 - 🤙 WhatsApp: +255 769 578 893   
-- 📧 Email: mpangalabaptist@gmail.com
-
-
-⭐️ *“Code harder, stay inprogress.”*  
+- 📧 Email: mpangalabaptist@gmail.com  
