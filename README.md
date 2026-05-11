@@ -14,8 +14,8 @@ I’m passionate about creating powerful web apps, user-friendly designs, and so
 
 
 ## 🔧 On Progress Tech Stack Learning
--  Node.js | React.
--  MySQL | Python.
+-  Node.js | React. | PHP
+-  MySQL | Python. | C
 -  Git & GitHub.
 
 ---
